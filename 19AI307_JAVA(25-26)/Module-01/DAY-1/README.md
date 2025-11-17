@@ -73,11 +73,10 @@ To write a Java program that reads two integer numbers from the user and perform
 
 ## PROGRAM:
  ```
-/*
 Program to implement variables and Operators using Java
 Developed by: SHARANGINI T K
 RegisterNumber:  212222230143
-*/
+
 ```
 
 ## Sourcecode.java:
@@ -113,5 +112,6 @@ public class Main{
 ## RESULT:
 
 The program has been executed successfully and the desired output has been obtained.
+
 
 
